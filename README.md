@@ -15,3 +15,5 @@ Ferramenta web leve, responsiva e segura desenvolvida em PHP para geração de h
 
 ## 📜 Licença
 Este projeto está sob a licença MIT.
+
+https://gitvkt.github.io/php-password-hash-generator/
